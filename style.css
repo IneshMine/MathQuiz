@@ -1,0 +1,28 @@
+#Div1
+{
+  background-color: lightblue;
+}
+#Div2
+{
+    background-color: lightblue;
+}
+
+#body
+{
+    background-color: skyblue;
+}
+
+#background
+{
+  background-color: skyblue;
+}
+
+#output
+{
+  background: whitesmoke;
+  border-radius: 10px;
+  border-top: 10px solid blue;
+  padding: 10px;
+  float: none;
+  text-align: left;
+}
